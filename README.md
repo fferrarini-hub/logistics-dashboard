@@ -32,3 +32,16 @@ Transformar dados em informações para apoiar a tomada de decisão e identifica
 ## Status
 
 🚧 Projeto em desenvolvimento
+# Screenshots
+
+## Executive Dashboard
+
+![Executive Dashboard](Dash_log1.png)
+
+## Inventory Management
+
+![Inventory Management](Stock_.png)
+
+## Performance Analytics
+
+![Performance Analytics](Produtividade_.png)
